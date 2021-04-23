@@ -1,0 +1,106 @@
+Field of study,Grand Total,Total Employed,Full Time,Part Time,Unemployed,Retired,Not employed or not seeking work
+All fields,967500,815100,721950,93150,17100,113450,21850
+Science,736700,612450,533800,78700,12800,93550,17900
+"Biological, agricultural, and environmental life sciences",246850,206900,188650,18250,5150,28100,6700
+Agricultural and food sciences,20800,16350,15050,1300,200,3700,500
+Agricultural sciences,1400,1000,800,200,*,400,*
+Animal sciences,5200,4400,4000,350,S,650,100
+Food sciences and technology,4200,3550,3350,200,50,500,150
+Plant sciences,7150,5300,5000,300,S,1600,200
+Soil sciences,2850,2150,1950,200,*,600,100
+Biochemistry and biophysics,34500,28250,25750,2500,750,4500,1000
+Biochemistry,28900,23400,21100,2250,650,3950,900
+Biophysics,5600,4850,4650,250,100,550,100
+"Cell, cellular biology, and molecular biology",33550,29850,27250,2550,700,2150,900
+Microbiological sciences and immunology,26250,22200,20450,1750,800,2550,700
+Immunology,9250,8150,7350,800,150,650,350
+Microbiological sciences,17000,14100,13150,950,650,1900,350
+Natural resources and conservation,10900,8550,7800,800,200,1850,300
+"Fish, fisheries, wildlife and wildlands science and management",2800,2250,2050,200,D,500,50
+Forestry,3550,2600,2350,300,100,800,50
+"Natural resource conservation, research, management, and policy",4550,3700,3400,300,100,550,200
+Zoology,10350,7450,6500,950,150,2550,200
+Other biological sciences,110450,94200,85800,8400,2350,10800,3100
+"Biomathematics, bioinformatics, and computational biology",4700,4400,4100,300,S,200,50
+Botany and plant biology,8900,6450,5750,700,250,2000,150
+"Epidemiology, ecology, and population biology",17050,14800,13250,1550,200,1600,500
+Genetics,9200,8200,7500,700,150,650,150
+Neurobiology and neuroscience,15550,14600,13800,800,400,150,400
+Nutrition sciences,4600,3800,3200,550,100,500,150
+Pharmacology and toxicology,14200,12200,11200,1050,350,1200,450
+"Physiology, pathology, and related sciences",17300,14200,12800,1400,400,2250,450
+"Biological and biomedical sciences, general",13000,10950,10100,850,300,1400,400
+"Biological and biomedical sciences, other",5950,4600,4050,500,200,800,350
+Computer and information sciences,30150,27550,25950,1550,500,1450,650
+Computer science,26100,24050,22700,1350,400,1100,600
+"Information science, studies",2600,2150,2000,150,S,350,S
+"Computer and information sciences, other",1450,1350,1300,100,50,50,*
+Mathematics and statistics,42500,35200,31700,3500,600,5750,950
+Applied mathematics,8400,7700,7200,500,D,550,D
+Mathematics,21300,16450,14700,1750,350,3900,600
+Statistics,8000,7000,6150,900,D,750,150
+"Mathematics and statistics, other",4750,4100,3700,400,100,500,50
+"Physical sciences, geosciences, atmospheric, and ocean sciences",159250,130000,118050,11950,3550,22700,3000
+Astronomy and astrophysics,6450,5600,5200,400,100,600,150
+"Chemistry, except biochemistry",78950,63550,57300,6200,1750,12100,1550
+Inorganic chemistry,10250,8450,7600,850,200,1500,50
+Organic chemistry,22750,17150,15250,1900,450,4750,350
+"Chemistry, other, except biochemistry",46000,37950,34500,3450,1100,5800,1150
+"Geosciences, atmospheric, and ocean sciences",25350,21000,18850,2150,700,3250,400
+Atmospheric sciences and meteorology,4250,3750,3400,300,50,350,50
+"Geological and earth sciences, geosciences",15950,12900,11500,1350,550,2300,250
+Ocean sciences and marine sciences,2200,1900,1750,200,50,150,50
+"Oceanography, chemical and physical",3000,2450,2200,250,D,450,S
+Physics,48500,39850,36700,3150,1000,6750,900
+Psychology,136900,113950,84400,29550,1300,17600,4050
+Clinical psychology,46500,40800,28400,12450,300,3800,1600
+Counseling and applied psychology,17000,15200,11000,4200,150,1300,350
+Educational and school psychology,18050,13650,9350,4300,100,3850,450
+Industrial and organizational psychology,5750,4950,4100,900,S,500,150
+Research and experimental psychology,34650,27500,22550,4950,300,5750,1050
+"Psychology, general",9200,7400,5500,1900,200,1350,250
+"Psychology, other",5750,4450,3500,950,150,1050,150
+Social sciences,121050,98850,85000,13850,1750,17900,2500
+Economics,32000,26600,23550,3050,250,4650,500
+Political science and government,24150,19950,17300,2650,350,3450,400
+Political science and government ,19850,16150,14100,2100,300,3100,300
+Public policy analysis,4350,3750,3200,550,50,350,150
+"Sociology, demography, and population studies",19450,15150,12700,2400,250,3600,500
+Other social sciences,45450,37200,31450,5750,950,6200,1100
+Anthropology,13950,11550,9600,1950,300,1850,250
+"Area, ethnic, cultural, gender, and group studies",4100,3450,2900,550,100,400,100
+Geography and cartography,5600,4600,4000,550,S,800,150
+International relations and national security studies,2600,2000,1650,350,S,500,S
+Linguistics,6100,5050,4300,750,S,650,300
+"Urban studies, affairs",2050,1500,1250,250,S,450,D
+"Social sciences, other",11050,9100,7750,1350,200,1550,250
+Engineering,186700,164650,154450,10200,3550,15250,3250
+"Aerospace, aeronautical, and astronautical engineering",7350,6500,6200,350,50,650,100
+Chemical engineering,23200,20250,19000,1200,250,2200,500
+Civil engineering,20000,17900,16600,1250,300,1550,300
+Electrical and computer engineering,50950,45850,43050,2800,950,3350,800
+Computer engineering,6500,6000,5850,150,100,250,100
+"Electrical, electronics, and communications engineering",44450,39800,37200,2650,800,3100,700
+Mechanical engineering,26700,23700,22600,1100,550,1900,500
+Metallurgical and materials engineering,17950,15400,14550,850,550,1700,300
+Other engineering,40550,35050,32450,2650,850,3950,650
+Agricultural engineering,1900,1550,1450,100,D,300,D
+Bioengineering and biomedical engineering,12450,11600,10950,650,200,350,300
+"Engineering mechanics, physics, and science",5350,4150,3850,300,100,1000,100
+Industrial and manufacturing engineering,9950,8700,7950,750,150,950,150
+Nuclear engineering,3400,2750,2500,200,D,600,D
+"Engineering, other",7450,6300,5700,600,250,750,100
+Health,44100,37950,33700,4250,750,4650,750
+Communication disorders sciences and services,4100,3400,2700,750,D,550,100
+Hospital and medical administration services,2300,1700,1550,150,S,450,D
+"Pharmacy, pharmaceutical sciences, and administration",8200,7400,6850,600,100,600,100
+Public health,8050,7100,6500,600,150,450,300
+"Registered nursing, nursing administration, nursing research",10750,8900,7650,1200,D,1650,D
+"Health sciences, other",10700,9450,8500,900,250,900,150
+,,,,,,,
+Codes used in data tables: * = suppressed when population estimate < 25. D = suppressed to avoid disclosure of confidential information. na = not applicable. S = suppressed for reliability; coefficient of variation exceeds publication standards.,,,,,,,
+SE = standard error.,,,,,,,
+a Unemployed includes individuals who were not working during the survey reference week but had been seeking work in the prior 4 weeks or who were on layoff from their job.,,,,,,,
+"b Not employed or not seeking work includes individuals who were not working during the survey reference week and had not been seeking work in the prior 4 weeks because of family responsibilities, chronic illness, or other reasons.",,,,,,,
+"NOTES: Numbers are rounded to the nearest 50. Standard errors are rounded up to the nearest 25. Detail may not add to total because of rounding. Designation of full-time and part-time employment status is based on principal job only, not on all jobs held in labor force. For example, an individual could work part time in his or her principal job but full time in the labor force. Residence location is based on reported living location on 1 February 2017.",,,,,,,
+"SOURCE:  National Science Foundation, National Center for Science and Engineering Statistics, Survey of Doctorate Recipients: 2017.",,,,,,,
